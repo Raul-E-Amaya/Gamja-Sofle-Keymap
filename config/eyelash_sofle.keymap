@@ -55,11 +55,11 @@
 
         layer_1 {
             bindings = <
-&trans      &trans           &trans          &trans           &trans           &trans             &mmv MOVE_UP     &trans           &trans           &trans    &trans     &trans            &trans
-&trans      &trans           &trans          &trans           &trans           &trans             &mmv MOVE_DOWN   &trans           &trans           &kp UP    &trans     &kp LEFT_BRACKET  &kp RIGHT_BRACKET
-&trans      &trans           &trans          &trans           &trans           &trans             &mmv MOVE_LEFT   &trans           &kp LEFT         &kp DOWN  &kp RIGHT  &trans            &trans
-&trans      &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &trans    &trans     &trans            &trans
-&kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &mkp LCLK        &trans           &trans           &trans    &trans     &trans
+&trans      &trans  &trans  &trans  &trans  &trans    &mmv MOVE_UP     &trans    &trans    &trans    &trans     &trans            &trans
+&trans      &trans  &trans  &trans  &trans  &trans    &mmv MOVE_DOWN   &trans    &trans    &kp UP    &trans     &kp LEFT_BRACKET  &kp RIGHT_BRACKET
+&trans      &trans  &trans  &trans  &trans  &trans    &mmv MOVE_LEFT   &trans    &kp LEFT  &kp DOWN  &kp RIGHT  &trans            &trans
+&trans      &trans  &trans  &trans  &trans  &trans    &mmv MOVE_RIGHT  &mkp MB3  &trans    &trans    &trans     &trans            &trans
+&kp C_MUTE  &trans  &trans  &trans  &trans  &trans    &mkp LCLK        &trans    &trans    &trans    &trans     &trans
             >;
 
             display-name = "lvl 1";
