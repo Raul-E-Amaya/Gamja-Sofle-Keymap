@@ -55,7 +55,7 @@
 
         layer_1 {
             bindings = <
-&trans      &trans  &trans  &trans  &trans  &trans    &mmv MOVE_UP     &trans    &trans    &trans    &trans     &trans            &trans
+&trans      &trans  &trans  &trans  &trans  &trans    &mmv MOVE_UP     &trans    &trans    &trans    &trans     &kp MINUS         &kp EQUAL
 &trans      &trans  &trans  &trans  &trans  &trans    &mmv MOVE_DOWN   &trans    &trans    &kp UP    &trans     &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &trans      &trans  &trans  &trans  &trans  &trans    &mmv MOVE_LEFT   &trans    &kp LEFT  &kp DOWN  &kp RIGHT  &trans            &trans
 &trans      &trans  &trans  &trans  &trans  &trans    &mmv MOVE_RIGHT  &mkp MB3  &trans    &trans    &trans     &trans            &trans
