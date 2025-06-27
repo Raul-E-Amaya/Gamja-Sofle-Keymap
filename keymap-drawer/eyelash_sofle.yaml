@@ -276,9 +276,9 @@ layers:
   - {t: '$$mdi:backup-restore$$', type: bootloader}
   - BT CLR ALL
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - EP OFF
+  - EP ON
+  - '&soft_off'
   - {t: '$$mdi:transfer$$', type: trans}
   - RGB HUD
   - {t: '$$mdi:transfer$$', type: trans}
