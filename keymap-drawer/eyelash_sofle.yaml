@@ -54,7 +54,7 @@ layers:
   - {t: /, s: '?'}
   - {t: '$$mdi:keyboard-return$$', h: '$$mdi:apple-keyboard-shift$$'}
   - $$mdi:volume-off$$
-  - Alt+Ctl+$$mdi:backspace-reverse-outline$$
+  - LANGUAGE 1
   - Sft+Gui+S
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
