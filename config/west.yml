@@ -6,7 +6,7 @@ manifest:
       # See:
       # - https://zmk.dev/docs/features/modules
       # - https://docs.zephyrproject.org/3.5.0/develop/west/manifest.html#projects
-    - name: gpeye
+    - name: Raul-E-Amaya
       url-base: https://github.com/Raul-E-Amaya/nice-view-mod
   projects:
     - name: mario-peripheral-animation
