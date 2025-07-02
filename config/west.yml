@@ -9,8 +9,8 @@ manifest:
     - name: Raul-E-Amaya
       url-base: https://github.com/Raul-E-Amaya/nice-view-mod
   projects:
-    - name: mario-peripheral-animation
-      remote: gpeye
+    - name: nice-view-mod
+      remote: Raul-E-Amaya
       revision: main 
     - name: zmk
       remote: zmkfirmware
